@@ -14,7 +14,7 @@
     > ng v
 
     *Output*
-    ![Alt text](images/image.png)
+    ![Alt text](./images/image.png)
 
 ## Creating a new project 
 

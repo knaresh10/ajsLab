@@ -34,4 +34,4 @@
     > ng serve --open
 
 #### Output
-![exercise - 4c output](images/image-4c.png)
+![exercise - 4c output](./images/image-4c.png)

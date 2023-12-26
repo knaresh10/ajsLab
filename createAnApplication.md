@@ -17,7 +17,7 @@
 3. Now run myApp using the following command
     > ng serve --open
 
-    output ![Alt text](images/image-2.png)
+    output ![Alt text](./images/image-2.png)
 
 4. Navigate to `src->app->app.component.html` and delete everything
     
