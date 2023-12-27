@@ -43,4 +43,4 @@
     > ng serve --open
 
 #### Output
-![exercise - 1b output](./images/image-1.png)
+![exercise - 1b output](./images/image-1.jpeg)
